@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Helios",
+      "hasCanvas": false,
+      "bodyTextLen": 4219,
+      "bodyTextHash": "c5175efaf0719a2c6674821ac9fe6cb46c02b114efb41b98b49c0596021a2953",
+      "bodyTextPrefix": "HELIOS /plans/33498/12099/MAPD Recorded case Needs assessment In",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Helios",
+      "hasCanvas": false,
+      "bodyTextLen": 4394,
+      "bodyTextHash": "bf7cea5ba43940536ca719e99f31cec03b69c30fa7932eeb1a31e651c56ac945",
+      "bodyTextPrefix": "HELIOS /plans/33498/12099/MAPD Needs assessment Intake Plans X-r",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
